@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Live Site https://react-blog-app-eea2e.web.app
 # shiny-happiness
 
-Project Console: https://console.firebase.google.com/project/react-blog-app-eea2e/overview
