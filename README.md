@@ -69,4 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # shiny-happiness
+Live Site https://react-blog-app-eea2e.web.app
 # shiny-happiness
+
+Project Console: https://console.firebase.google.com/project/react-blog-app-eea2e/overview
