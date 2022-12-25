@@ -33,3 +33,7 @@ A fullstack blog using React for the frontend and for the backend, Firebase and 
 ## Mobile
 
 - built for mobile as well.
+
+## Live Site
+
+- https://react-blog-app-eea2e.web.app/
