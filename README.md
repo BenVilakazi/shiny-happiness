@@ -3,7 +3,7 @@ A fullstack blog using React for the frontend and for the backend, Firebase and 
 
 ## Post Page
 
-![light](https://ibb.co/qD62dnd)
+![light](https://ibb.co/qD62dnd.png)
 
 ---
 
