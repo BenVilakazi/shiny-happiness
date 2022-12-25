@@ -29,9 +29,6 @@ A fullstack blog using React for the frontend and for the backend, Firebase and 
 - search for other users.
 - updates as you type.
 
-## Themes
-
-- light / dark mode.
 
 ## Mobile
 
