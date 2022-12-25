@@ -3,7 +3,7 @@ A fullstack blog using React for the frontend and for the backend, Firebase and 
 
 ## Post Page
 
-![light](https://ibb.co/qD62dnd.png)
+![light]<a href="https://ibb.co/qD62dnd"><img src="https://i.ibb.co/qD62dnd/screencapture-react-blog-app-eea2e-web-app-2022-12-26-02-25-31.jpg" alt="screencapture-react-blog-app-eea2e-web-app-2022-12-26-02-25-31" border="0" /></a>
 
 ---
 
